@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>commonCodeInAppDeledage</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    &lt;#ViewControllerClass#&gt; *&lt;#ViewControllerObject#&gt; = [[&lt;#ViewControllerClass#&gt; alloc] init];
+    self.window.rootViewController = &lt;#ViewControllerObject#&gt;;
+    [self.window makeKeyAndVisible];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8DAB9ACC-AF56-4DC1-A30B-384C23FD2032</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>commonCodeInAppDeledage</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
